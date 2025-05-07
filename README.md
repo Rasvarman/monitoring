@@ -41,8 +41,10 @@
 Требования к результату
  Прикрепите в файл README.md скриншот страницы хостов, где будут видны привязки шаблонов с названиями «Задание 2-3». Хосты должны иметь зелёный статус подключения
 
-![Screenshot_43](https://github.com/user-attachments/assets/35dda55f-91b0-42a8-beeb-34af067c2c18)
-![Screenshot_44](https://github.com/user-attachments/assets/413769bf-40a5-4d83-89c3-fe75803f8bc5)
+![Screenshot_9](https://github.com/user-attachments/assets/068711b6-cea9-4dbf-a3aa-45e43916d67a)
+![Screenshot_10](https://github.com/user-attachments/assets/6a75a2e5-85b1-4fba-9ceb-75762d4d7c58)
+![Screenshot_11](https://github.com/user-attachments/assets/3ca33522-a433-4f27-b81a-bed10159b1cf)
+
 ![Screenshot_45](https://github.com/user-attachments/assets/c9ffd280-db1f-4d71-8d82-d398a5b10f72)
 ![Screenshot_49](https://github.com/user-attachments/assets/08b1abe3-e43f-41e1-a347-0e469d67f813)
 
