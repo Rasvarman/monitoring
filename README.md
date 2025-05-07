@@ -46,7 +46,8 @@
 ![Screenshot_11](https://github.com/user-attachments/assets/3ca33522-a433-4f27-b81a-bed10159b1cf)
 
 ![Screenshot_45](https://github.com/user-attachments/assets/c9ffd280-db1f-4d71-8d82-d398a5b10f72)
-![Screenshot_49](https://github.com/user-attachments/assets/08b1abe3-e43f-41e1-a347-0e469d67f813)
+
+![Screenshot_12](https://github.com/user-attachments/assets/94e1768c-508b-4eba-970e-13ef4133462f)
 
 
 Задание 4
