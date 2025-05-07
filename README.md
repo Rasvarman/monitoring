@@ -47,7 +47,7 @@
 
 ![Screenshot_45](https://github.com/user-attachments/assets/c9ffd280-db1f-4d71-8d82-d398a5b10f72)
 
-![Screenshot_12](https://github.com/user-attachments/assets/94e1768c-508b-4eba-970e-13ef4133462f)
+![Screenshot_14](https://github.com/user-attachments/assets/8ded3acc-9df4-449d-bf69-961cbdb1f297)
 
 
 Задание 4
